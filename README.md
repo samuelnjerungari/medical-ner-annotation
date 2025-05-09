@@ -29,6 +29,11 @@ The following entity labels were annotated:
 
 ---
 
+### Visual Sample from Label Studio
+
+![Label Studio Screenshot](./label-studio-annotation.png)
+
+
 ## Example Annotation
 
 **Text:**
