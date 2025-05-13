@@ -72,4 +72,4 @@ The following entity labels were annotated:
 ---
 
 ## Contact
-If you're interested in collaborating or using this dataset for healthcare NLP, feel free to reach out via [LinkedIn](www.linkedin.com/in/samuel-n-ngari)!
+If you're interested in collaborating or using this dataset for healthcare NLP, feel free to reach out via [LinkedIn Profile](https://www.linkedin.com/in/samuel-n-ngari)!
